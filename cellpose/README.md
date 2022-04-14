@@ -1,3 +1,3 @@
 # How to run...
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/diamandis-lab/demo/blob/main/cellpose/cellpose_image_segmentation2.ipynb)
